@@ -90,6 +90,7 @@ pode usar o de sua preferência, clique no link para baixar e importar a estrutu
 reaquisições: https://drive.google.com/drive/folders/1Wh6k6HeO8xfmD7bMVJejvyoIL837Q6I2?usp=sharing
 
 Para importar, bastar ir até import/export
+
 ![image](https://user-images.githubusercontent.com/55728068/111513374-820c7800-872f-11eb-9ec5-7835614a9df7.png)
 
 Agora vamos baixar nossos fontes, utilizando o bash ou outro terminal
@@ -131,12 +132,15 @@ Bom, agora é hora de testar nossas rotas, com a estrutura das requisições em 
 vamos testar:
 
 Rota(taxajuros)
+
 ![image](https://user-images.githubusercontent.com/55728068/111515454-8e91d000-8731-11eb-87e7-9611e21c51a6.png)
 
 Rota(calculajuros)
+
 ![image](https://user-images.githubusercontent.com/55728068/111515581-ba14ba80-8731-11eb-8ac3-dfeaf63900fd.png)
 
 Rota(showmethecode)
+
 ![image](https://user-images.githubusercontent.com/55728068/111516162-5b9c0c00-8732-11eb-8861-51a799a9d546.png)
 
 Maravilha, vamos agora rodar o teste unitário na aplicação API1TESTE,
