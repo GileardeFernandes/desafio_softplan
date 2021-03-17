@@ -10,13 +10,15 @@
 
 <h2># 🚀 Tecnologias</h2>
 
-#.net core
+.net core
 .NET SDKs installed:
   5.0.201
-.EntityFrameworkCore.InMemory
+EntityFrameworkCore.InMemory
  5.0.4
 .EntityFrameworkCore.Relational
  5.0.4
+
+
 
 #Estrutura API1
 ```
