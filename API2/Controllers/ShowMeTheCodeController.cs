@@ -17,7 +17,7 @@ namespace API2.Controllers
         [HttpGet]
         public string GetURLTheCode()
         {
-            string  urlGitHub = "www.link.com";
+            string  urlGitHub = "https://github.com/GileardeFernandes/desafio_softplan";
           
             return  urlGitHub;
         }
