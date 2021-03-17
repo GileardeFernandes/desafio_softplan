@@ -1,0 +1,8 @@
+### DotnetCore ###
+# .NET Core build folders
+API1/bin/
+API1/obj/
+API2/bin/
+API2/obj/
+API1TESTE/bin/
+API1TESTE/obj/
